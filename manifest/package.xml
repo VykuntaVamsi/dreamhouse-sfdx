@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>college__c</members>
+		<members>company__c</members>
+		<members>employee__c</members>
+		<members>mall__c</members>
+		<members>member__c</members>
+		<members>party__c</members>
+		<members>school__c</members>
+		<members>student__c</members>
+		<name>CustomObject</name>
+	</types>
+	<version>53.0</version>
+</Package>
