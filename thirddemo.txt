@@ -5,4 +5,6 @@ c
 k
 e
 t
-fan
+f
+a
+n
