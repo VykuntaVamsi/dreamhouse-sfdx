@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 c
 r
@@ -15,3 +16,6 @@ sport1
 
 =======
 >>>>>>> f9527db (Update thirddemo.txt)
+=======
+football
+>>>>>>> 86e03ba (Update thirddemo.txt)
