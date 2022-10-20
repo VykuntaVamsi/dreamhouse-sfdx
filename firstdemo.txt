@@ -1,5 +1,4 @@
 english
 telugu
-hindi
-kannada
-tulu
+
+
