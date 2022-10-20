@@ -1,7 +1,1 @@
-a
-b
-b
-c
-c
-v
-d
+success
