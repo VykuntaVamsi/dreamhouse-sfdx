@@ -4,10 +4,3 @@ fdsf
 hghgh
 efuhsd
 sgdfg
-<<<<<<< HEAD
-dhwadjh
-afjdajgigi
-hgffhjkk
-gegj
-=======
->>>>>>> a150196 (Update demo.txt)
