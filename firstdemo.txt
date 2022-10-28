@@ -1,5 +1,10 @@
 english
 telugu
+tamil
+malayalam
+kannada
+chinese
 hindi
 kannada
 tulu
+
