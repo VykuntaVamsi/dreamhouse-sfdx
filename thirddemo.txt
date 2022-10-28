@@ -1,4 +1,2 @@
-demo
 
-sport1
-
+archery
