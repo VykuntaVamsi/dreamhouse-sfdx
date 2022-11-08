@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 sport
-=======
 data
->>>>>>> 84498366c2772dd3622c5c393e398a5c9386cebe
+archery
